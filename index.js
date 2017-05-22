@@ -15,7 +15,8 @@ function adicionarEventoAncora(button, idPosicao) {
     });
 }
 
-//Script contador 
+
+//Script contador
   var target_date = new Date("August 01, 2017").getTime();
   var dias, horas, minutos, segundos;
   var regressiva = document.getElementById("regressiva");
